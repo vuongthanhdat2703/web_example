@@ -21,7 +21,7 @@ export default function Index() {
             height: 30
           }} src="https://images.viblo.asia/avatar/8d02d829-56f6-4724-b725-a8007429c245.jpg" srcset="https://images.viblo.asia/avatar-retina/8d02d829-56f6-4724-b725-a8007429c245.jpg 2x" alt="Avatar" class="avatar avatar--lg"></img>
             <blink>{user.fullName}</blink>
-            <i>({user.id})</i>
+            <i>({user.id}) iu iu</i>
             </a>
           </Link>
         </li>
