@@ -3,7 +3,9 @@ const users = [
   { id: 1, fullName: 'VTD' },
   { id: 2, fullName: 'VDT' },
   { id: 3, fullName: 'VTH' }, 
-  { id: 4, fullName: 'VTP'}]
+  { id: 4, fullName: 'VTP'},
+  { id: 5, fullName: 'VVT'}
+]
 
 export default (req, res) => {
   // Get data from your database
